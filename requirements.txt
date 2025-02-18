@@ -1,4 +1,4 @@
 google-generativeai
 pypdf
 streamlit
-python-dotenv 
+python-dontenv 
